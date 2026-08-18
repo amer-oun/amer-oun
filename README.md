@@ -1,178 +1,90 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there%2C+I'm+Amer+%F0%9F%91%8B;Full-Stack+Developer;Next.js+%C2%B7+Python+%C2%B7+Flutter;PFE+Student+%40+Coll%C3%A8ge+LaSalle+Tunis;Open+to+Junior+Roles+%F0%9F%9A%80&font=Fira%20Code&center=true&width=520&height=50&color=58A6FF&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+# Amer Oun
+
+<sub>Full-stack developer based in Tunis. I build web, mobile, and data products for real clients.</sub>
+
+<sub><a href="mailto:ounamer31@gmail.com">ounamer31@gmail.com</a> · <a href="https://www.linkedin.com/in/amer-oun-b33212312/">LinkedIn</a> · Available for junior roles</sub>
+
+</div>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/amer-oun-b33212312/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ounamer31@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://fibreconnect.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=amer-oun&label=Profile+views&color=58A6FF&style=for-the-badge" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/📍_Tunis%2C_Tunisia-58A6FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🎓_Coll%C3%A8ge_LaSalle_Tunis-4CAF50?style=for-the-badge" />
-<img src="https://img.shields.io/badge/💼_Open_to_Junior_Roles-FF6B6B?style=for-the-badge" />
-
-</div>
-
 ---
 
-## 🧑‍💻 About me
-
-```typescript
-const amer = {
-  role: "Full-Stack Developer",
-  education: "CS student @ Collège LaSalle Tunis · Class of 2026",
-  location: "Tunis, Tunisia 🇹🇳",
-  stack: {
-    frontend: ["Next.js", "React", "Flutter", "Tailwind"],
-    backend:  ["Node.js", "Prisma", "NextAuth", "Python"],
-    data:     ["pandas", "Prophet", "scikit-learn", "Streamlit"],
-    cloud:    ["Vercel", "Neon", "Firebase", "Streamlit Cloud"],
-  },
-  currentlyBuilding: "Real-world PFE projects for Tunisian clients",
-  learning: ["Docker", "System design", "Testing"],
-  lookingFor: "Junior developer roles — remote or Tunisia-based",
-};
-```
-
----
-
-## 🛠 Tech Stack
-
-<div align="center">
-
-### Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-### Frontend
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-
-### Backend & Data
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=auth0&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Prophet-4285F4?style=for-the-badge&logo=meta&logoColor=white" />
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-
-### Databases
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-
-### Cloud, Deployment & Tools
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" />
-<img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
+## Selected work
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="42%" valign="top">
+      <a href="https://github.com/amer-oun/fibreconnect">
+        <img src="https://github.com/user-attachments/assets/fed873aa-3eee-4688-bd32-da5ae1576dba" alt="FibreConnect" />
+      </a>
+    </td>
+    <td width="58%" valign="top">
+      <h3><a href="https://github.com/amer-oun/fibreconnect">FibreConnect</a></h3>
+      <p><em>Intervention management for a Tunisian fiber optic subcontractor.</em></p>
+      <p>A three-role platform — client, technician, supervisor — that coordinates fiber outage reports from the first call to the closing invoice. Handles zone-based dispatch, on-site cash collection with technician remittance tracking, and manual reassignment for zones with no coverage. Built for a real subcontractor, deployed in production.</p>
+      <p><sub>Next.js 16 · TypeScript · Prisma · PostgreSQL (Neon) · NextAuth · Vercel</sub></p>
+      <p><a href="https://fibreconnect.vercel.app"><b>Live demo →</b></a></p>
+    </td>
+  </tr>
+</table>
 
-### 🌐 [FibreConnect](https://github.com/amer-oun/fibreconnect)
-**Intervention management platform for a Tunisian fiber optic subcontractor**
+<br/>
 
-Full-stack Next.js app with three role-based interfaces (client / technician / supervisor), invoice generation, and cash-remittance tracking.
+<table>
+  <tr>
+    <td width="42%" valign="top">
+      <a href="https://github.com/amer-oun/tt-kpi-dashboard">
+        <img src="https://github.com/user-attachments/assets/97dd2713-f116-4498-b440-3325b4173432" alt="TT KPI Dashboard" />
+      </a>
+    </td>
+    <td width="58%" valign="top">
+      <h3><a href="https://github.com/amer-oun/tt-kpi-dashboard">TT KPI Dashboard</a></h3>
+      <p><em>Sales performance and forecasting for a Tunisian telecom operator.</em></p>
+      <p>Nine telecom product categories tracked continuously, with Facebook Prophet projecting the remainder of the year and z-score anomaly detection flagging abnormal sales days. Data is synthetic but mirrors the reporting structure of the Tunisian telecom regulator (INT), so the workflow is real even where the numbers are not.</p>
+      <p><sub>Streamlit · Python · Prophet · pandas · scikit-learn · Streamlit Cloud</sub></p>
+      <p><a href="https://tt-kpi-dashboard-bk6wgnynlifm4opdpbcbrb.streamlit.app/"><b>Live demo →</b></a></p>
+    </td>
+  </tr>
+</table>
 
-`Next.js 16` · `TypeScript` · `Prisma` · `PostgreSQL` · `NextAuth`
+<br/>
 
-🔗 **[Live Demo →](https://fibreconnect.vercel.app)**
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 [TT KPI Dashboard](https://github.com/amer-oun/tt-kpi-dashboard)
-**Sales performance dashboard with Prophet forecasting for a Tunisian telecom**
-
-Interactive Streamlit dashboard with time-series forecasting, z-score anomaly detection, and regional analysis across 9 telecom product categories.
-
-`Streamlit` · `Python` · `Prophet` · `pandas` · `scikit-learn`
-
-🔗 **[Live Demo →](https://tt-kpi-dashboard-bk6wgnynlifm4opdpbcbrb.streamlit.app/)**
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🌊 [Costalina](https://github.com/amer-oun/costalina-app)
-**Citizen-science mobile app monitoring the Tunisian coastline for Iberostar**
-
-Cross-platform Flutter app letting citizens photograph and geolocate coastal anomalies. Aggregated data helps researchers and local authorities track erosion along Tunisia's ~1,300 km shoreline.
-
-`Flutter` · `Dart` · `Firebase` · `Google Maps API` · `Geolocation`  ·  **Client: Iberostar** (global tourism group)
-
-</td>
-</tr>
+<table>
+  <tr>
+    <td width="42%" valign="top" align="center">
+      <br/><br/>
+      <p><b>Client</b></p>
+      <p>Iberostar</p>
+      <p><sub>Global tourism &amp; hotel group</sub></p>
+      <br/>
+      <p><sub>Cross-platform · Flutter</sub></p>
+    </td>
+    <td width="58%" valign="top">
+      <h3><a href="https://github.com/amer-oun/costalina-app">Costalina</a></h3>
+      <p><em>Citizen-science coastline monitoring for Iberostar.</em></p>
+      <p>A mobile app that turns beachgoers into contributors. Users photograph and geolocate coastal anomalies — erosion, pollution, damaged infrastructure — along Tunisia's 1,300 km shoreline. The aggregated dataset gives researchers and local authorities continuous, ground-truth monitoring at a fraction of the cost of official surveys.</p>
+      <p><sub>Flutter · Dart · Firebase · Google Maps · Geolocation</sub></p>
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats
+## About
 
-<div align="center">
+Final-year computer science student at Collège LaSalle Tunis, graduating in 2026. Two of my three current projects were shaped by real client conversations, which has changed how I think about scope, edge cases, and what "done" actually means.
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=amer-oun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amer-oun&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+I care about production concerns early — real database, live deployment, seed data that mirrors real operations — because I've learned that retrofitting them later hurts more than doing them right the first time. When something breaks in production (and it has), I want to be the person who debugged it, not the one who never saw the logs.
 
-<br/>
+## Currently
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=amer-oun&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/amer-oun/amer-oun/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
-
-</div>
-
----
-
-## 🎯 Current focus
-
-```yaml
-now:
-  - Finalizing PFE projects for defense (2026)
-  - Applying to junior developer roles
-next:
-  - Deepening Docker + CI/CD
-  - Contributing to open-source (Prisma, Streamlit)
-  - Building a personal portfolio site
-```
+Finishing PFE for defense. Applying to junior full-stack, mobile, and data roles — remote or Tunisia-based. Deepening Docker and testing. Reading more system design than tutorials.
 
 ---
 
 <div align="center">
-
-### 📫 Let's connect
-
-<a href="https://www.linkedin.com/in/amer-oun-b33212312/"><img src="https://img.shields.io/badge/LinkedIn-Message_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ounamer31@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br/><br/>
-
-<sub>⭐ From <a href="https://github.com/amer-oun">Amer Oun</a> · Made with ☕ in Tunis</sub>
-
+<sub>Tunis, Tunisia · <a href="mailto:ounamer31@gmail.com">ounamer31@gmail.com</a> · <a href="https://www.linkedin.com/in/amer-oun-b33212312/">LinkedIn</a></sub>
 </div>
