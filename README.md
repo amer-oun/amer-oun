@@ -1,90 +1,205 @@
 <div align="center">
 
-# Amer Oun
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1929,100:00E599&height=220&section=header&text=Amer%20Oun&fontColor=ffffff&fontSize=68&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20Tunis%2C%20Tunisia&descSize=18&descAlignY=60&descAlign=50" alt="banner" />
 
-<sub>Full-stack developer based in Tunis. I build web, mobile, and data products for real clients.</sub>
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00E599&center=true&vCenter=true&width=560&lines=%3E+Booting+portfolio...;%3E+Shipping+PFE+projects+for+real+Tunisian+clients;%3E+Next.js+%2B+Python+%2B+Flutter+specialist;%3E+Open+to+junior+developer+roles+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-<sub><a href="mailto:ounamer31@gmail.com">ounamer31@gmail.com</a> · <a href="https://www.linkedin.com/in/amer-oun-b33212312/">LinkedIn</a> · Available for junior roles</sub>
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/amer-oun-b33212312/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ounamer31@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://fibreconnect.vercel.app"><img src="https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=amer-oun&label=Visitors&color=00E599&style=flat-square" />
 
 </div>
 
-<br/>
+---
+
+## `~/ $ whoami`
+
+```bash
+$ cat ~/about.md
+
+  Name        : Amer Oun
+  Role        : Full-stack developer
+  Location    : Tunis, Tunisia
+  School      : Collège LaSalle Tunis — CS, Class of 2026
+  Status      : Open to junior roles (remote / on-site)
+  Currently   : Finalizing 3 PFE projects for real clients
+
+$ cat ~/philosophy.txt
+
+  I ship things that run in production. I care about the boring
+  stuff — real databases, live deployments, seed data that mirrors
+  reality — because retrofitting production concerns later hurts
+  more than doing them right the first time.
+```
 
 ---
 
-## Selected work
+## `~/ $ ls ./skills`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,dart,html,css&perline=6" alt="languages" />
+<br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,flutter,tailwind,nodejs,prisma&perline=6" alt="frameworks" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,firebase,vercel,git&perline=6" alt="databases and cloud" />
+<br/>
+<img src="https://skillicons.dev/icons?i=vscode,github,linux,figma&perline=6" alt="tools" />
+
+<sub><em>Languages · Frameworks · Databases & Cloud · Tools</em></sub>
+
+</div>
+
+---
+
+## `~/ $ cat ./missions.log`
 
 <table>
-  <tr>
-    <td width="42%" valign="top">
-      <a href="https://github.com/amer-oun/fibreconnect">
-        <img src="https://github.com/user-attachments/assets/fed873aa-3eee-4688-bd32-da5ae1576dba" alt="FibreConnect" />
-      </a>
-    </td>
-    <td width="58%" valign="top">
-      <h3><a href="https://github.com/amer-oun/fibreconnect">FibreConnect</a></h3>
-      <p><em>Intervention management for a Tunisian fiber optic subcontractor.</em></p>
-      <p>A three-role platform — client, technician, supervisor — that coordinates fiber outage reports from the first call to the closing invoice. Handles zone-based dispatch, on-site cash collection with technician remittance tracking, and manual reassignment for zones with no coverage. Built for a real subcontractor, deployed in production.</p>
-      <p><sub>Next.js 16 · TypeScript · Prisma · PostgreSQL (Neon) · NextAuth · Vercel</sub></p>
-      <p><a href="https://fibreconnect.vercel.app"><b>Live demo →</b></a></p>
-    </td>
-  </tr>
+<tr>
+<td width="42%" valign="top">
+<a href="https://github.com/amer-oun/fibreconnect">
+  <img src="https://github.com/user-attachments/assets/fed873aa-3eee-4688-bd32-da5ae1576dba" alt="FibreConnect" />
+</a>
+</td>
+<td width="58%" valign="top">
+
+### 🌐 [FibreConnect](https://github.com/amer-oun/fibreconnect) `v1.0.0`
+> Intervention management for a Tunisian fiber optic subcontractor.
+
+A three-role platform (client / technician / supervisor) that coordinates fiber outages from first call to closing invoice. Zone-based dispatch, cash-payment tracking, manual reassignment for uncovered areas. Built for a real subcontractor, **deployed in production**.
+
+```
+stack   : Next.js 16 · TypeScript · Prisma · PostgreSQL · NextAuth
+hosting : Vercel + Neon
+status  : ✅ live
+```
+
+**[▶ Live Demo](https://fibreconnect.vercel.app)** · **[< /> Code](https://github.com/amer-oun/fibreconnect)**
+
+</td>
+</tr>
 </table>
+
+<table>
+<tr>
+<td width="42%" valign="top">
+<a href="https://github.com/amer-oun/tt-kpi-dashboard">
+  <img src="https://github.com/user-attachments/assets/97dd2713-f116-4498-b440-3325b4173432" alt="TT KPI Dashboard" />
+</a>
+</td>
+<td width="58%" valign="top">
+
+### 📊 [TT KPI Dashboard](https://github.com/amer-oun/tt-kpi-dashboard) `v1.0.0`
+> Sales performance + forecasting for a Tunisian telecom operator.
+
+9 telecom product categories tracked continuously, with Prophet projecting the rest of the year and z-score anomaly detection flagging abnormal sales days. Synthetic data, real structure — mirrors the Tunisian regulator (INT).
+
+```
+stack   : Streamlit · Python · Prophet · pandas · scikit-learn
+hosting : Streamlit Community Cloud
+status  : ✅ live
+```
+
+**[▶ Live Demo](https://tt-kpi-dashboard-bk6wgnynlifm4opdpbcbrb.streamlit.app/)** · **[< /> Code](https://github.com/amer-oun/tt-kpi-dashboard)**
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="42%" valign="top" align="center">
 
 <br/>
 
-<table>
-  <tr>
-    <td width="42%" valign="top">
-      <a href="https://github.com/amer-oun/tt-kpi-dashboard">
-        <img src="https://github.com/user-attachments/assets/97dd2713-f116-4498-b440-3325b4173432" alt="TT KPI Dashboard" />
-      </a>
-    </td>
-    <td width="58%" valign="top">
-      <h3><a href="https://github.com/amer-oun/tt-kpi-dashboard">TT KPI Dashboard</a></h3>
-      <p><em>Sales performance and forecasting for a Tunisian telecom operator.</em></p>
-      <p>Nine telecom product categories tracked continuously, with Facebook Prophet projecting the remainder of the year and z-score anomaly detection flagging abnormal sales days. Data is synthetic but mirrors the reporting structure of the Tunisian telecom regulator (INT), so the workflow is real even where the numbers are not.</p>
-      <p><sub>Streamlit · Python · Prophet · pandas · scikit-learn · Streamlit Cloud</sub></p>
-      <p><a href="https://tt-kpi-dashboard-bk6wgnynlifm4opdpbcbrb.streamlit.app/"><b>Live demo →</b></a></p>
-    </td>
-  </tr>
-</table>
+<img src="https://img.shields.io/badge/Client-Iberostar-00E599?style=for-the-badge&labelColor=0a1929" />
 
-<br/>
+<br/><br/>
 
-<table>
-  <tr>
-    <td width="42%" valign="top" align="center">
-      <br/><br/>
-      <p><b>Client</b></p>
-      <p>Iberostar</p>
-      <p><sub>Global tourism &amp; hotel group</sub></p>
-      <br/>
-      <p><sub>Cross-platform · Flutter</sub></p>
-    </td>
-    <td width="58%" valign="top">
-      <h3><a href="https://github.com/amer-oun/costalina-app">Costalina</a></h3>
-      <p><em>Citizen-science coastline monitoring for Iberostar.</em></p>
-      <p>A mobile app that turns beachgoers into contributors. Users photograph and geolocate coastal anomalies — erosion, pollution, damaged infrastructure — along Tunisia's 1,300 km shoreline. The aggregated dataset gives researchers and local authorities continuous, ground-truth monitoring at a fraction of the cost of official surveys.</p>
-      <p><sub>Flutter · Dart · Firebase · Google Maps · Geolocation</sub></p>
-    </td>
-  </tr>
+<sub><em>Global tourism &amp; hotel group</em></sub>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&perline=3" alt="Flutter Dart Firebase" />
+
+</td>
+<td width="58%" valign="top">
+
+### 🌊 [Costalina](https://github.com/amer-oun/costalina-app) `v1.0.0`
+> Citizen-science coastline monitoring for Iberostar.
+
+A cross-platform mobile app turning beachgoers into contributors. Users photograph and geolocate coastal anomalies — erosion, pollution, debris — along Tunisia's 1,300 km shoreline. Aggregated data gives researchers continuous, ground-truth monitoring at a fraction of the cost of official surveys.
+
+```
+stack   : Flutter · Dart · Firebase · Google Maps · Geolocation
+client  : Iberostar
+status  : 🔨 in development
+```
+
+**[< /> Code](https://github.com/amer-oun/costalina-app)**
+
+</td>
+</tr>
 </table>
 
 ---
 
-## About
+## `~/ $ ./stats --detailed`
 
-Final-year computer science student at Collège LaSalle Tunis, graduating in 2026. Two of my three current projects were shaped by real client conversations, which has changed how I think about scope, edge cases, and what "done" actually means.
+<div align="center">
 
-I care about production concerns early — real database, live deployment, seed data that mirrors real operations — because I've learned that retrofitting them later hurts more than doing them right the first time. When something breaks in production (and it has), I want to be the person who debugged it, not the one who never saw the logs.
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=amer-oun&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00E599&icon_color=00E599&text_color=ffffff" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amer-oun&layout=compact&theme=merko&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00E599&text_color=ffffff" />
 
-## Currently
+<br/>
 
-Finishing PFE for defense. Applying to junior full-stack, mobile, and data roles — remote or Tunisia-based. Deepening Docker and testing. Reading more system design than tutorials.
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=amer-oun&theme=dark&hide_border=true&background=0D1117&stroke=00E599&ring=00E599&fire=00E599&currStreakLabel=00E599" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=amer-oun&theme=matrix&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
+
+</div>
+
+---
+
+## `~/ $ ./contribution-map --3d`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/amer-oun/amer-oun/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+
+<sub><em>Every cube is a day. Height = commits. Rebuilds every 12h.</em></sub>
+
+</div>
+
+---
+
+## `~/ $ tail -n 3 ./now.log`
+
+```yaml
+today:
+  - Finishing PFE for defense
+  - Applying to junior full-stack, mobile, and data roles
+  - Learning: Docker · CI/CD · Testing · System design
+
+reach_me:
+  email:    ounamer31@gmail.com
+  linkedin: linkedin.com/in/amer-oun-b33212312
+  location: Tunis, Tunisia 🇹🇳
+```
 
 ---
 
 <div align="center">
-<sub>Tunis, Tunisia · <a href="mailto:ounamer31@gmail.com">ounamer31@gmail.com</a> · <a href="https://www.linkedin.com/in/amer-oun-b33212312/">LinkedIn</a></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E599,100:0a1929&height=100&section=footer" alt="footer" />
+
+<sub><code>~ /$ exit 0 &nbsp;&nbsp;·&nbsp;&nbsp; Thanks for reading — let's build something.</code></sub>
+
 </div>
