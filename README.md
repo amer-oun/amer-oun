@@ -149,32 +149,13 @@ status  : 🔨 in development
 
 ---
 
-## `~/ $ ./stats --detailed`
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=amer-oun&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00E599&icon_color=00E599&text_color=ffffff" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amer-oun&layout=compact&theme=merko&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00E599&text_color=ffffff" />
-
-<br/>
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=amer-oun&theme=dark&hide_border=true&background=0D1117&stroke=00E599&ring=00E599&fire=00E599&currStreakLabel=00E599" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=amer-oun&theme=matrix&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
-
-</div>
-
----
-
 ## `~/ $ ./contribution-map --3d`
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/amer-oun/amer-oun/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 
-<sub><em>Every cube is a day. Height = commits. Rebuilds every 12h.</em></sub>
+<sub><em>Every cube is a day. Height = commits. Rebuilds weekly.</em></sub>
 
 </div>
 
