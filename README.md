@@ -100,7 +100,7 @@ status  : ✅ live
 9 telecom product categories tracked continuously, with Prophet projecting the rest of the year and z-score anomaly detection flagging abnormal sales days. Synthetic data, real structure — mirrors the Tunisian regulator (INT).
 
 ```
-stack   : Streamlit · Python · Prophet · pandas · scikit-learn
+stack   : Streamlit · Python · Prophet · pandas · plotly
 hosting : Streamlit Community Cloud
 status  : ✅ live
 ```
