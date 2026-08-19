@@ -138,7 +138,7 @@ A cross-platform mobile app turning beachgoers into contributors. Users photogra
 ```
 stack   : Flutter · Dart · Firebase · Google Maps · Geolocation
 client  : Iberostar
-status  : 🔨 in development
+status  : ✅ v1 complete
 ```
 
 **[< /> Code](https://github.com/amer-oun/costalina-app)**
