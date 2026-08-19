@@ -141,7 +141,7 @@ client  : Iberostar
 status  : ✅ v1 complete
 ```
 
-**[< /> Code](https://github.com/amer-oun/costalina-app)**
+**[▶ Watch demo](https://github.com/amer-oun/costalina-app#demo)** · **[< /> Code](https://github.com/amer-oun/costalina-app)**
 
 </td>
 </tr>
