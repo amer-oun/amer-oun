@@ -45,9 +45,9 @@ $ cat ~/philosophy.txt
 
 <img src="https://skillicons.dev/icons?i=python,ts,js,dart,html,css&perline=6" alt="languages" />
 <br/>
-<img src="https://skillicons.dev/icons?i=nextjs,react,flutter,tailwind,nodejs,prisma&perline=6" alt="frameworks" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,flutter,tailwind,nodejs,express&perline=6" alt="frameworks" />
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,firebase,vercel,git&perline=6" alt="databases and cloud" />
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,prisma,vercel,git&perline=6" alt="databases and cloud" />
 <br/>
 <img src="https://skillicons.dev/icons?i=vscode,github,linux,figma&perline=6" alt="tools" />
 
@@ -125,7 +125,7 @@ status  : ✅ live
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&perline=3" alt="Flutter Dart Firebase" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,mongodb&perline=3" alt="Flutter Dart MongoDB" />
 
 </td>
 <td width="58%" valign="top">
@@ -136,7 +136,7 @@ status  : ✅ live
 A cross-platform mobile app turning beachgoers into contributors. Users photograph and geolocate coastal anomalies — erosion, pollution, debris — along Tunisia's 1,300 km shoreline. Aggregated data gives researchers continuous, ground-truth monitoring at a fraction of the cost of official surveys.
 
 ```
-stack   : Flutter · Dart · Firebase · Google Maps · Geolocation
+stack   : Flutter · Dart · Node.js · Express · MongoDB · OpenStreetMap
 client  : Iberostar
 status  : ✅ v1 complete
 ```
