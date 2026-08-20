@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/amer-oun-b33212312/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/amer-oun/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:ounamer31@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://fibreconnect.vercel.app"><img src="https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=amer-oun&label=Visitors&color=00E599&style=flat-square" />
@@ -171,7 +171,7 @@ today:
 
 reach_me:
   email:    ounamer31@gmail.com
-  linkedin: linkedin.com/in/amer-oun-b33212312
+  linkedin: linkedin.com/in/amer-oun
   portfolio: amer-oun.vercel.app
   location: Tunis, Tunisia 🇹🇳
 ```
