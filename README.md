@@ -3,14 +3,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1929,100:00E599&height=220&section=header&text=Amer%20Oun&fontColor=ffffff&fontSize=68&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20Tunis%2C%20Tunisia&descSize=18&descAlignY=60&descAlign=50" alt="banner" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00E599&center=true&vCenter=true&width=560&lines=%3E+Booting+portfolio...;%3E+Shipping+PFE+projects+for+real+Tunisian+clients;%3E+Next.js+%2B+Python+%2B+Flutter+specialist;%3E+Open+to+junior+developer+roles+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00E599&center=true&vCenter=true&width=560&lines=%3E+Booting+portfolio...;%3E+Shipping+PFE+projects+for+real+Tunisian+clients;%3E+Just+shipped%3A+an+AI+email+assistant+%F0%9F%93%AC;%3E+Next.js+%2B+Python+%2B+Flutter+specialist;%3E+Open+to+junior+developer+roles+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/amer-oun/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:ounamer31@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://fibreconnect.vercel.app"><img src="https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://inbox-copilot-wheat.vercel.app"><img src="https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=amer-oun&label=Visitors&color=00E599&style=flat-square" />
 
 </div>
@@ -47,9 +47,9 @@ $ cat ~/philosophy.txt
 <br/>
 <img src="https://skillicons.dev/icons?i=nextjs,react,flutter,tailwind,nodejs,express&perline=6" alt="frameworks" />
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,prisma,vercel,git&perline=6" alt="databases and cloud" />
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,prisma,redis,docker,vercel&perline=7" alt="databases and cloud" />
 <br/>
-<img src="https://skillicons.dev/icons?i=vscode,github,linux,figma&perline=6" alt="tools" />
+<img src="https://skillicons.dev/icons?i=vscode,github,git,linux,figma,gcp&perline=6" alt="tools" />
 
 <sub><em>Languages · Frameworks · Databases & Cloud · Tools</em></sub>
 
@@ -58,6 +58,35 @@ $ cat ~/philosophy.txt
 ---
 
 ## `~/ $ cat ./missions.log`
+
+<table>
+<tr>
+<td width="42%" valign="top">
+<a href="https://github.com/amer-oun/inbox-copilot">
+  <img src="https://raw.githubusercontent.com/amer-oun/inbox-copilot/main/docs/screenshots/inbox.png" alt="Inbox Copilot" />
+</a>
+</td>
+<td width="58%" valign="top">
+
+### 📬 [Inbox Copilot](https://github.com/amer-oun/inbox-copilot) `v1.0.0`
+> AI email assistant for Gmail.
+
+Syncs your inbox in real time, sorts mail by category and priority, summarizes long threads, drafts replies in three tones, translates, schedules sends and chases follow-ups. Phishing detection puts SPF/DKIM/DMARC checks and link heuristics underneath the AI — the model can raise a verdict, never lower it. AI drafts never send without a human pressing send.
+
+```
+stack   : Next.js · TypeScript · Express · Prisma · PostgreSQL · Redis/BullMQ · Gemini API
+hosting : Vercel + Render + Neon + Upstash
+tests   : 1,300+ automated
+status  : ✅ live
+```
+
+**[▶ Live Demo](https://inbox-copilot-wheat.vercel.app)** · **[< /> Code](https://github.com/amer-oun/inbox-copilot)**
+
+<sub><em>Gmail access on the demo is limited to approved test users while Google verification is pending.</em></sub>
+
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
@@ -166,8 +195,9 @@ status  : ✅ v1 complete
 ```yaml
 today:
   - Finishing PFE for defense
+  - Just shipped: Inbox Copilot, an AI email assistant for Gmail
   - Applying to junior full-stack, mobile, and data roles
-  - Learning: Docker · CI/CD · Testing · System design
+  - Learning: CI/CD · System design · AI engineering
 
 reach_me:
   email:    ounamer31@gmail.com
